@@ -1,0 +1,17 @@
+html,body{
+          margin: 0;
+	  height: 100%;
+	  }
+.warp{
+	text-align: center;
+	font-size: 0;
+	}		
+.div{
+	background-color: blue;
+	display: inline-block;
+	height: 0;
+	width: 31%;
+	margin: 1%; 
+	padding-bottom: 31%;	
+	border-radius: 10px;
+	}
